@@ -1,0 +1,8 @@
+.venv
+.env
+venv
+env
+.conda
+.ipynb_checkpoints
+StreamlitVSC\.streamlit\secrets.toml
+.vscode
